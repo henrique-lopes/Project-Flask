@@ -1,0 +1,126 @@
+
+
+img#imagem1{
+    margin: auto;
+    width: auto;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 50px;
+    box-shadow: 5px 5px 5px rgb(18, 97, 86);
+}
+
+img#imagem2{
+    margin: 8px;
+    width: 220px;
+    height: 150px;
+    border-radius: 20px;
+    box-shadow: 50px;
+    box-shadow: 5px 5px 5px rgb(18, 97, 86);
+}
+
+a {
+    font:12px  Arial,Verdana,Helvetica,sans-serif;
+    color: #000;
+    text-decoration: none;
+    background: color blue;
+    text-align: center;
+    padding: 1px 50px;
+    margin-right: 1px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    text-shadow: 10px 5px 10px rbga(0,0,0,0.5);
+    box-shadow: 10px 5px 10px rgba(0,0,0,0.5);
+    }
+
+  
+body {
+    margin: auto;
+    background-color: cadetblue;
+}
+
+
+
+
+div#CONTEUDO {
+    
+    //background-color: cadetblue;
+    width: 745px;
+    height: 400px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    float: left;
+    border: dotted 1px #000000;
+    border-radius: 10px;
+}
+div#banner {
+    //background-color: #990033;
+    width: 230px;
+    height: 400px;
+    float: right;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    border: dotted 1px #cccccc;
+   }
+   div#rodape {
+       background-color: cadetblue;
+       height: 80px;
+       width: auto;
+       margin-left: 5px;
+       margin-top: 5px;
+       clear: both;
+       border-radius: 10px;
+       border: dotted 1px #cccccc;
+   }
+   body {
+       font-family: Arial;
+   }
+   
+   h1#txtconteudo {
+       font-size: 20px;
+       color: black;
+       background-image: linear-gradient(to bottom,rgb(31, 88, 90), #2a788b 130%); 
+       width: 735px;
+       margin-right: 5px;
+       margin-left: 5px;
+       margin-top: 5px;
+       height: 25px;
+       padding-top: 5px;
+       padding-left: 5px;
+       box-shadow: 5px 5px 2px black;
+       border-radius: 10px;
+      }
+      
+      h2#txtbanner{
+          font-size: 14px;
+          color:black;
+          background-color: cadetblue;
+          width:215px;
+          margin-left: 5px;
+          margin-top:5px;
+          height: 25px;
+          padding-top: 5px;
+          padding-left: 5px;
+          border: dotted 1px #000000;
+          box-shadow:  5px 5px 2px black;
+          border-radius: 10px;    
+              
+      }
+
+ul {
+    font:12px  Arial,Verdana,Helvetica,sans-serif;
+    color: #000;
+    text-decoration: none;
+    background: color blue;
+    text-align: left;
+    padding: 1px 50px;
+    margin-left: 1px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    text-shadow: 5px 5px 5p;
+    box-shadow: 5px 5px 5px;
+    list-style-type: none;
+}
